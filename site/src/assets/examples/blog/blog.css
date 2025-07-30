@@ -1,11 +1,11 @@
 /* stylelint-disable @stylistic/selector-list-comma-newline-after */
 
-.blog-header-logo {
+.dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-blog-header-logo {
   font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
   font-size: 2.25rem;
 }
 
-.blog-header-logo:hover {
+.dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-blog-header-logo:hover {
   text-decoration: none;
 }
 
@@ -13,27 +13,27 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
 }
 
-.flex-auto {
+.dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-flex-auto {
   flex: 0 0 auto;
 }
 
-.h-250 { height: 250px; }
+.dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-h-250 { height: 250px; }
 @media (min-width: 768px) {
-  .h-md-250 { height: 250px; }
+  .dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-h-md-250 { height: 250px; }
 }
 
 /* Pagination */
-.blog-pagination {
+.dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-blog-pagination {
   margin-bottom: 4rem;
 }
 
 /*
  * Blog posts
  */
-.blog-post {
+.dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-blog-post {
   margin-bottom: 4rem;
 }
-.blog-post-meta {
+.dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-blog-post-meta {
   margin-bottom: 1.25rem;
   color: #727272;
 }

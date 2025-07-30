@@ -1,8 +1,8 @@
-.container {
+.dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-container {
   max-width: 960px;
 }
 
-.icon-link > .bi {
+.dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-icon-link > .bi {
   width: .75em;
   height: .75em;
 }
@@ -11,16 +11,16 @@
  * Custom translucent site header
  */
 
-.site-header {
+.dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-site-header {
   background-color: rgba(0, 0, 0, .85);
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
 }
-.site-header a {
+.dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-site-header a {
   color: #8e8e8e;
   transition: color .15s ease-in-out;
 }
-.site-header a:hover {
+.dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-site-header a:hover {
   color: #fff;
   text-decoration: none;
 }
@@ -29,7 +29,7 @@
  * Dummy devices (replace them with your own or something else entirely!)
  */
 
-.product-device {
+.dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-product-device {
   position: absolute;
   right: 10%;
   bottom: -30%;
@@ -40,7 +40,7 @@
   transform: rotate(30deg);
 }
 
-.product-device::before {
+.dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-product-device::before {
   position: absolute;
   top: 10%;
   right: 10px;
@@ -51,7 +51,7 @@
   border-radius: 5px;
 }
 
-.product-device-2 {
+.dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-product-device-2 {
   top: -25%;
   right: auto;
   bottom: 0;
@@ -64,11 +64,11 @@
  * Extra utilities
  */
 
-.flex-equal > * {
+.dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-flex-equal > * {
   flex: 1;
 }
 @media (min-width: 768px) {
-  .flex-md-equal > * {
+  .dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-dx-flex-md-equal > * {
     flex: 1;
   }
 }
